@@ -11,7 +11,7 @@
 - [WAF WhiteList Update 구성](https://github.com/Kwon-Sung-joon/AWS-WAF-AutoUpdate)
 ## CloudWatch Dashboard Update 자동화
 - [이벤트 기반 CloudWatch Dashboard Update 자돋화](https://github.com/Kwon-Sung-joon/CloudWatchUpdateDashboard)
-## RDS 스케줄러를
+## RDS 스케줄러 구성
 - [RDS 스케줄러 구성](https://github.com/Kwon-Sung-joon/AWS-RDS-Instance-Scheduler)
 ## AWS 리소스 태그 자동화
 - [리소스 기반 AWS 태그 자동화](https://github.com/Kwon-Sung-joon/AWS_Auto_Tagging)
