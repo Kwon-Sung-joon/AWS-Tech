@@ -13,6 +13,11 @@
 - [이벤트 기반 CloudWatch Dashboard Update 자돋화](https://github.com/Kwon-Sung-joon/CloudWatchUpdateDashboard)
 ## RDS 스케줄러 구성
 - [RDS 스케줄러 구성](https://github.com/Kwon-Sung-joon/AWS-RDS-Instance-Scheduler)
+- [RDS 스케줄러 구성 v2](https://github.com/Kwon-Sung-joon/RDS_Scheduler_v2)
+## EC2 스케줄러 구성
+- [EC2 스케줄러 구성](https://github.com/Kwon-Sung-joon/EC2_SCHEDULER)
+## Spot Instance 관리
+- [Spot Instances manager](https://github.com/Kwon-Sung-joon/Spot_Instance_MNG/blob/main/lambda.py)
 ## AWS 리소스 태그 자동화
 - [리소스 기반 AWS 태그 자동화](https://github.com/Kwon-Sung-joon/AWS_Auto_Tagging)
 
