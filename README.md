@@ -1,8 +1,12 @@
 # AWS-Tech
 
-## Terraform 기반 EKS 클러스터 구성
-- [EKS with Terraform](https://github.com/Kwon-Sung-joon/EKS_Terraform)
+## Terraform
+- [Terraform 기반 EKS 클러스터 구성](https://github.com/Kwon-Sung-joon/EKS_Terraform)
+- [Terraform 기반 IAM User 구성 관리]([https://github.com/Kwon-Sung-joon/EKS_Terraform](https://github.com/Kwon-Sung-joon/aws_iam_terraform))
 
+
+
+## EC2
 ## ECR Image Scan Logs 수집 구성
 - [컨테이너 이미지 스캔(취약점 점검) 결과를 관리 계정의 로그그룹에서 관리할 수 있도록 구성](https://github.com/Kwon-Sung-joon/AWS_ECR_Image_Monitoring)
 ## SSM을 통한 원격 명령 수행
