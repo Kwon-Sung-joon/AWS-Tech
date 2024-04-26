@@ -7,6 +7,10 @@
 
 ## EC2 스케줄러 구성
 - [EC2 스케줄러 구성](https://github.com/Kwon-Sung-joon/EC2_SCHEDULER)
+
+## AutoScalingGroup LifeCycle Hooks 구성
+- [ASG LifeCycle 제어](https://github.com/Kwon-Sung-joon/ASG_Hooks)
+
 ## RDS 스케줄러 구성
 - [RDS 스케줄러 구성](https://github.com/Kwon-Sung-joon/AWS-RDS-Instance-Scheduler)
 - [RDS 스케줄러 구성 v2](https://github.com/Kwon-Sung-joon/RDS_Scheduler_v2)
