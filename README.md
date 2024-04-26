@@ -16,7 +16,7 @@
 - [RDS 스케줄러 구성 v2](https://github.com/Kwon-Sung-joon/RDS_Scheduler_v2)
 
 ## Spot Instance 관리
-- [Spot Instances manager](https://github.com/Kwon-Sung-joon/Spot_Instance_MNG/blob/main/lambda.py)
+- [Spot Instances manager](https://github.com/Kwon-Sung-joon/Spot_Instance_MNG)
 
 ## ECR Image Scan Logs 수집 구성
 - [컨테이너 이미지 스캔(취약점 점검) 결과를 관리 계정의 로그그룹에서 관리할 수 있도록 구성](https://github.com/Kwon-Sung-joon/AWS_ECR_Image_Monitoring)
