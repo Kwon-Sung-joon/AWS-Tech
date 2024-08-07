@@ -30,6 +30,9 @@
 ## WAF WhiteList Update 자동화
 - [WAF WhiteList Update 구성](https://github.com/Kwon-Sung-joon/AWS-WAF-AutoUpdate)
 
+## ElastiCache Migration
+- [ElastiCache 데이터 이관](https://github.com/Kwon-Sung-joon/ElastiCache_Migration)
+
 ## CloudWatch Dashboard Update 자동화
 - [이벤트 기반 CloudWatch Dashboard Update 자돋화](https://github.com/Kwon-Sung-joon/CloudWatchUpdateDashboard)
 
