@@ -25,7 +25,7 @@
 - [리소스 기반 AWS 태그 자동화](https://github.com/Kwon-Sung-joon/AWS_Auto_Tagging)
 
 ## SSM을 통한 원격 명령 수행
-- [Systems Manager 원격 명령 수해 구성](https://github.com/Kwon-Sung-joon/AWS-EC2-SSM-Doc-for-OS-Update)
+- [Systems Manager 원격 명령 수행 구성](https://github.com/Kwon-Sung-joon/AWS-EC2-SSM-Doc-for-OS-Update)
 
 ## WAF WhiteList Update 자동화
 - [WAF WhiteList Update 구성](https://github.com/Kwon-Sung-joon/AWS-WAF-AutoUpdate)
