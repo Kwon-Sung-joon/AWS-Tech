@@ -21,6 +21,10 @@
 ## ECR Image Scan Logs 수집 구성
 - [컨테이너 이미지 스캔(취약점 점검) 결과를 관리 계정의 로그그룹에서 관리할 수 있도록 구성](https://github.com/Kwon-Sung-joon/AWS_ECR_Image_Monitoring)
 
+## AWS Compute Optimizer Export 구성
+- [AWS Compute Optimizer Exporter](https://github.com/Kwon-Sung-joon/AWS-COMPUTE-OPTIMIZER-EXPORT)
+
+
 ## AWS 리소스 태그 자동화
 - [리소스 기반 AWS 태그 자동화](https://github.com/Kwon-Sung-joon/AWS_Auto_Tagging)
 
